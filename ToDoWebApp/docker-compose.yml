@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  todowebapp:
+    image: ${DOCKER_REGISTRY}todowebapp
+    build:
+      context: .
+      dockerfile: ToDoWebApp/Dockerfile
