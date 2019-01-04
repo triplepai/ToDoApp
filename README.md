@@ -22,12 +22,12 @@ Visual Studio Code (For run xUnit test)
 4. after docker has running open browser and browse http://localhost:63837/api/todo/getall
 
 ## How to run xUnit test
-1.install Visual Studio Code 
-2.install extension .NET Core Test Explorer
-3.Open .NET Core Test Explorer plugin
-4.Browse folder "TodoWebApp.Test"
-5.Test case will be show in windows
-6.Click run to see the result
+1. install Visual Studio Code 
+2. install extension .NET Core Test Explorer
+3. Open .NET Core Test Explorer plugin
+4. Browse folder "TodoWebApp.Test"
+5. Test case will be show in windows
+6. Click run to see the result
 *You can also run xUnit test via Visual Studio 2017 community edition(Free)
 
 
